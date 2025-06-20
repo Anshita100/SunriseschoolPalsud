@@ -1,0 +1,14 @@
+/* AwardsHonours.css */
+.awards-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+.awards-scroll::-webkit-scrollbar-thumb {
+  background-color: #ec4899; /* pink-500 */
+  border-radius: 10px;
+}
+.awards-scroll {
+  scroll-snap-type: x mandatory;
+}
+.awards-scroll > button {
+  scroll-snap-align: start;
+}
