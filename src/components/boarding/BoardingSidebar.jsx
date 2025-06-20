@@ -116,7 +116,7 @@ export default function AboutSidebar() {
                 : 'text-gray-700 hover:text-primary-700'
             } transition-colors duration-300`}
           >
-            +91 77250 76767
+            +91 77250 73767
           </a>
         </div>
       </motion.div>
